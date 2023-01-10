@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "empleados-97dbb": {
+      "hosting": {
+        "empleados": [
+          "empleados-97dbb"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "empleados-97dbb"
+  }
+}
